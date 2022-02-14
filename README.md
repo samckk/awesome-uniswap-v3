@@ -24,6 +24,7 @@
 <a name="Uniswap-Official" />
 
 ### Uniswap Official
+- [Uniswap v3 Docs](https://docs.uniswap.org/) - Uniswap v3 Docs
 - [Uniswap v3 Smart Contracts](https://github.com/Uniswap/uniswap-v3-core) - Uniswap v3 Smart Contracts
 - [Uniswap v3 Periphery Contracts](https://github.com/Uniswap/uniswap-v3-periphery) - Uniswap v3 Periphery Contracts
 - [Uniswap v3 Subgraph](https://github.com/Uniswap/uniswap-v3-subgraph) - Uniswap v3 Subgraph
@@ -31,12 +32,6 @@
 <a name="Basics" />
 
 ## Basics
-
-<a name="Guides" />
-
-### Guides
-- [Swap](https://docs.uniswap.org/concepts/introduction/swaps) - Official Uniswap guide on swaps
-- [Liquidity provider & Migration User Guide](https://docs.uniswap.org/concepts/introduction/liquidity-user-guide) - Official step-by-step guide on providing liquidity on v3, and migration of liquidity from Uniswap v2 to v3
 
 <a name="Videos" />
 
