@@ -1,11 +1,7 @@
 ## Contents
 - [Uniswap Properties](#uniswap-properties)
   - [Uniswap Official](#uniswap-official)
-- [Media Coverage](#media-coverage)
-  - [Mentions](#mentions)
-  - [Podcasts](#podcasts)
 - [Basics](#basics)
-  - [FAQs](#faqs)
   - [Guides](#guides)
   - [Videos](#videos)
   - [Research](#research)
@@ -32,35 +28,9 @@
 - [Uniswap v3 Periphery Contracts](https://github.com/Uniswap/uniswap-v3-periphery) - Uniswap v3 Periphery Contracts
 - [Uniswap v3 Subgraph](https://github.com/Uniswap/uniswap-v3-subgraph) - Uniswap v3 Subgraph
 
-<a name="media-coverage" />
-
-## Media Coverage
-
-<a name="mentions" />
-
-### Mentions
-- [Wallstreet Journal](https://www.wsj.com/articles/upstart-peer-to-peer-crypto-exchanges-take-aim-at-coinbase-11621848601) - Uniswap Wallstreet Journal
-- [Yahoo Finance](https://finance.yahoo.com/news/uniswap-v3-arrival-signals-bright-153000373.html) - Yahoo Finance
-- [Decrypt](https://decrypt.co/69920/uniswap-v3-comes-tomorrow-heres-what-expect) - Decrypt
-- [MarketWatch](https://www.marketwatch.com/press-release/uniswap-v3-released-but-the-maker-idea-is-not-new-2021-03-29) - MarketWatch
-
-<a name="podcasts" />
-
-### Podcasts
-- [The Scoop](https://podcasts.apple.com/us/podcast/a-deep-dive-into-uniswap-v3-with-the-blocks-mika-honkasalo/id1460134454?i=1000514558379) - Fintech Frank
-- [Coin Bureau](https://www.audible.com/pd/Uniswap-V3-is-COMING-What-it-Means-For-UNI-Ep-125-Podcast/B091QFGNN9) - Coin Bureau
-- [Crypto Unstacked](https://www.audible.com/pd/Deep-Dive-Uniswap-v3-Can-You-Still-Be-a-Lazy-Liquidity-Provider-with-this-Novel-AMM-Design-Podcast/B095BRZCLX) - Crypto Unstacked v3
-- [Bankless](http://podcast.banklesshq.com/rollup-1st-week-of-may-uniswap-v3-elon-musk-snl-dogecoin-bankless-dao-eth-btc) - Bankless v3
-<a name="#uni-grant-projects" />
-
 <a name="Basics" />
 
 ## Basics
-
-<a name="faqs" />
-
-### FAQs
-- [Official FAQ](https://uniswap.org/faq/) - Official Uniswap FAQ
 
 <a name="Guides" />
 
