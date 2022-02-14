@@ -1,7 +1,6 @@
 ## Contents
 - [Uniswap Properties](#uniswap-properties)
   - [Uniswap Official](#uniswap-official)
-  - [Channels](#channels)
 - [Media Coverage](#media-coverage)
   - [Mentions](#mentions)
   - [Podcasts](#podcasts)
@@ -29,23 +28,9 @@
 <a name="Uniswap-Official" />
 
 ### Uniswap Official
-- [Uniswap Website](https://uniswap.org/) - Official Uniswap Website
-- [Uniswap v3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf) - Uniswap v3 Whitepaper
 - [Uniswap v3 Smart Contracts](https://github.com/Uniswap/uniswap-v3-core) - Uniswap v3 Smart Contracts
 - [Uniswap v3 Periphery Contracts](https://github.com/Uniswap/uniswap-v3-periphery) - Uniswap v3 Periphery Contracts
 - [Uniswap v3 Subgraph](https://github.com/Uniswap/uniswap-v3-subgraph) - Uniswap v3 Subgraph
-- [Uniswap App](https://app.uniswap.org/#/swap) - Uniswap App
-- [v3 Documentation](https://docs.uniswap.org/) - Official documentation for Uniswap v3
-- [Uniswap Analytics](https://info.uniswap.org/#/) - Uniswap Analytics
-- [Blog](https://uniswap.org/blog/) - Official blog for Uniswap
-- [Uniswap Grants](https://twitter.com/uniswapgrants?lang=en) - Uniswap Grants
-
-<a name="channels" />
-
-### Channels
-- [Uniswap Discord](https://discord.com/invite/FCfyBSbCU5) - Uniswap Discord
-- [Uniswap Twitter](https://twitter.com/Uniswap) - Uniswap Twitter
-- [Uniswap Reddit](https://www.reddit.com/r/Uniswap) - Uniswap Reddit
 
 <a name="media-coverage" />
 
