@@ -1,22 +1,3 @@
-## Contents
-- [Uniswap Properties](#uniswap-properties)
-  - [Uniswap Official](#uniswap-official)
-- [Basics](#basics)
-  - [Guides](#guides)
-  - [Videos](#videos)
-  - [Research](#research)
-- [Developer tools](#developer-tools)
-  - [v3 Smart Contracts](#v3-smart-contracts)
-  - [Data](#data)
-- [Ecosystem dApps](#ecosystem-dapps)
-  - [Active Liquidity Management](#active-liquidity-management)
-  - [Liquidity provider tools](#liquidity-provider-tools)
-  - [Simulators](#simulators)
-  - [Analytics & Dashboards](#analytics--dashboards)
-- [Uni Grant projects](#uni-grant-projects)
-  - [Wave 3 - Uniswap v3](#wave-3---uniswap-v3)
-- [Other Resources](#other-resources)
-
 <a name="Uniswap-properties" />
 
 ## Uniswap Properties
@@ -81,11 +62,6 @@
 - [Calculating the Expected Value of the Impermanent Loss in Uniswap](https://lambert-guillaume.medium.com/an-analysis-of-the-expected-value-of-the-impermanent-loss-in-uniswap-bfbfebbefed2) - Analysis of the expected impermanent loss of a one tick position on Uniswap v3
 - [Single-Position Impermanent Loss of A Single Transaction for Uniswap V3](https://medium.com/@PlanetHunter/impermanent-loss-calculation-for-uniswap-v3-c753dcfae16d) - Derivation of impermanent loss formulas for Uniswap v3 positions
 - 
-#### Didactic Tools
-- [Introduction of Concentrated Liquidity to a CMM](https://www.desmos.com/calculator/wfp3scq3g3) - Introduces range orders to the AMM.
-- [Swap-to-add Calculator](https://www.desmos.com/calculator/oiv0rti0ss?s=09) - Derivation of the swaps required to deposit 100% of your pair of assets in a pool, given that the pool's ratio and your ranges might not match.
-- [Impermanent Loss Calculator](https://www.desmos.com/calculator/i8h0wzqaci) - This tool shows how impermanent loss and portfolio composition work for Uniswap v3 positions.
-
 
 #### Options Analysis
 - [Lambert Guillaume Medium](https://lambert-guillaume.medium.com/) - Lambert Guillaume Medium
