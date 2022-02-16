@@ -40,10 +40,6 @@
 - [Uniswap v3 - Architecture explained](https://www.youtube.com/watch?v=Ehm-OYBmlPM) - Explanation of Uniswap v3 by Finematics
 - [Noah from Uniswap Explains Uniswap v3 Contracts](https://drive.google.com/file/d/1dRifSAXxc-6HKCKH8tcygEmHxJTKAlxp/view)
 
-<a name="Research" />
-
-### Research
-- [Official Uniswap research page](https://docs.uniswap.org/concepts/advanced/research) - A list of research papers curated by uniswap labs
 
 #### General Protocol Reserach
 - [Uniswap V3's Alchemy](https://www.nansen.ai/research/uniswap-v3s-alchemy) - An examination of the nascent rise of Uniswap V3, and its implications for the DeFi landscape by Nansen
@@ -86,26 +82,13 @@
 - [Single-Position Impermanent Loss of A Single Transaction for Uniswap V3](https://medium.com/@PlanetHunter/impermanent-loss-calculation-for-uniswap-v3-c753dcfae16d) - Derivation of impermanent loss formulas for Uniswap v3 positions
 - 
 #### Didactic Tools
-- [Basic Constant Product Market Maker Explainer](https://www.desmos.com/calculator/nw4zrqrftx) - Graphical Explanation of x * y = k markets.
 - [Introduction of Concentrated Liquidity to a CMM](https://www.desmos.com/calculator/wfp3scq3g3) - Introduces range orders to the AMM.
 - [Swap-to-add Calculator](https://www.desmos.com/calculator/oiv0rti0ss?s=09) - Derivation of the swaps required to deposit 100% of your pair of assets in a pool, given that the pool's ratio and your ranges might not match.
 - [Impermanent Loss Calculator](https://www.desmos.com/calculator/i8h0wzqaci) - This tool shows how impermanent loss and portfolio composition work for Uniswap v3 positions.
-- [Multiple LP positions example](https://www.desmos.com/calculator/qknhcrktmz) - This tool shwos how multiple concentrated liquidity positions behave when stacked on top of each other in the same pool.
 
 
 #### Options Analysis
-- [Synthetic Options and Short Calls in Uniswap V3](https://lambert-guillaume.medium.com/synthetic-options-and-short-calls-in-uniswap-v3-a3aea5e4e273) - Research interpreting Uniswap v3 LP positions as synthetic options contracts
-- [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) - Research on LP positions as pertetual options
-- [Understanding the Value of Uniswap v3 Liquidity Positions](https://lambert-guillaume.medium.com/understanding-the-value-of-uniswap-v3-liquidity-positions-cdaaee127fe7) - Research on LP position valuation using an Options framework
-- [How to Create Perpetual Options in Uniswap v3](https://lambert-guillaume.medium.com/how-to-create-a-perpetual-options-in-uniswap-v3-3c40007ccf1) - Guide on how to implement Uniswap v3 positions as perpetual options
-- [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 1](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-1-842b470d2261) - Statistical analysis of LP positions 
-- [A Guide for Choosing Optimal Uniswap V3 LP Positions, Part 2](https://lambert-guillaume.medium.com/a-guide-for-choosing-optimal-uniswap-v3-lp-positions-part-2-4a94b0a12886) - Derivation of "effective liquidity", combining expected time spent "in the money" with the Uniswap v3 capital efficiency.
-- [Pricing Uniswap v3 LP Positions: Towards a New Options Paradigm?](https://lambert-guillaume.medium.com/pricing-uniswap-v3-lp-positions-towards-a-new-options-paradigm-dce3e3b50125) - Analysis of the risk-reward tradeoffs of one tick positions in Uniswap v3 when interpreted as options
-
-#### Layer 2 Reserach
-- [Understanding Fees in Optimistic Ethereum: Part 1](https://optimismpbc.medium.com/what-to-expect-when-eths-expecting-part-1-9bb5cbccb7c1) - Research on swap fee changes from Optimism
-- [The Costs of Uniswap v3 Active Management](https://medium.com/gamma-strategies/the-costs-of-uniswap-v3-active-management-7dd1c160fdd) - Research on LP costs, including early Optimism LP estimates
-
+- [Lambert Guillaume Medium](https://lambert-guillaume.medium.com/) - Lambert Guillaume Medium
 
 <a name="Developer tools" />
 
