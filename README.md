@@ -17,13 +17,10 @@
 <a name="Videos" />
 
 ### Videos
-- [Uniswap v3](https://www.youtube.com/watch?v=5KonJGrGTiU) - Introduction to Uniswap v3 by the Defiant
-- [Uniswap v3 - Architecture explained](https://www.youtube.com/watch?v=Ehm-OYBmlPM) - Explanation of Uniswap v3 by Finematics
-- [Noah from Uniswap Explains Uniswap v3 Contracts](https://drive.google.com/file/d/1dRifSAXxc-6HKCKH8tcygEmHxJTKAlxp/view)
+- [Explains Uniswap v3 with code](https://drive.google.com/file/d/1dRifSAXxc-6HKCKH8tcygEmHxJTKAlxp/view)
 
 
 #### General Protocol Reserach
-- [Uniswap V3's Alchemy](https://www.nansen.ai/research/uniswap-v3s-alchemy) - An examination of the nascent rise of Uniswap V3, and its implications for the DeFi landscape by Nansen
 - [Liquidity Mining on Uniswap v3](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3/) - Paradigm's research on liquidity mining on Uniswap v3
 - [Liquidity providing in Uniswap v3 (1)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-49bf3a0bd2ec) - Description of new features of Uniswap v3 relevant for LPs. Analysis of *boost* derived from concentrated liquidity.
 - [Liquidity providing in Uniswap v3 (3)](https://reuptake.medium.com/liquidity-providing-in-uniswap-v3-3-c82fb9a5f545) - Research on the sources of yield on Uniswap v3
