@@ -119,14 +119,7 @@
 <a name="active-liquidity-management" />
 
 ### Active Liquidity Management
-- [Visor Finance](https://www.visor.finance/) - Active Liquidity Management protocol built on NFT Smart Vaults
-- [Gamma Strategies](https://twitter.com/GammaStrategies) - An organization dedicated to funding ‘Active LP’ strategies and research. Apply for a grant [here](https://airtable.com/shrE2y3iicf0IxkTi)
-- [Charm finance](https://alpha.charm.fi/) - Automated LP Vaults for Uniswap V3
-
-<a name="liquidity-provider-tools--portfolio-management" />
-
-### Liquidity provider tools
-- [Sommelier Finance](https://app.sommelier.finance/) - Add liquidity to Uniswap v3
+- [Automated uniswap manager](https://vividot-de.fi/entry/Uniswap-V3-Automated-Manager) - Automated uniswap manager
 
 <a name="simulators" />
 
